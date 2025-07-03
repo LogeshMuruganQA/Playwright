@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "iPhone",
+      "price": 999
+    },
+    {
+      "id": "2",
+      "title": "Samsung",
+      "price": 799
+    },
+    {
+      "title": "patch_POST_GET_PUT_PATCH",
+      "price": 2000,
+      "id": "DB_PGPP"
+    },
+    {
+      "title": "Updated_POST_GET_PUT",
+      "price": 2000,
+      "id": "DB_PGP"
+    },
+    {
+      "title": "Updated Micromax",
+      "price": "200",
+      "id": "3"
+    }
+  ]
+}
